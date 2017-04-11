@@ -384,6 +384,9 @@ h1, h2, h3, h4, h5, h6 {
 	margin-top: 0;
 	text-shadow:none;
 }
+#main-carousel .carousel-inner img {
+	background-position: bottom;
+}
 
 #main-carousel .carousel-left{
 	left:-50px;
